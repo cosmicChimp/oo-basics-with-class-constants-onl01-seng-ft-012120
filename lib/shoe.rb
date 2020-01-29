@@ -23,4 +23,3 @@ end
 
 Shoe.new("Uggs")
 
-binding.pry
