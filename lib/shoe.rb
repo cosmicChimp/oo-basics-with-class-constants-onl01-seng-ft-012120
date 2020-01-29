@@ -20,4 +20,4 @@ class Shoe
 
 end
 
-Shoe.new("Uggs")
+Shoe.new=("Uggs")
